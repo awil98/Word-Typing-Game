@@ -1,5 +1,5 @@
 import React, {useState, useEffect, useRef} from "react"
-import useWordGame from "./hooks/useWordGame"
+import useWordGame from "./useWordGame"
 
 function App() {
     const {
